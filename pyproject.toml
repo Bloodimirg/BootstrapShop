@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "basicweb"
+name = "shopBootstrap"
 version = "0.1.0"
 description = ""
 authors = ["Bloodimirg <bloodimirg@gmail.com>"]
